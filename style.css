@@ -49,6 +49,18 @@ body {
   margin: 2px 0;
 }
 
+.blog-chuuigaki {
+  text-align: center;   /* 中央寄せ */
+  font-size: 0.8rem;      /* 文字サイズ変更 */
+}
+
+.blog-inyoucard{
+  margin-bottom: 24px;
+  margin-top: 24px;
+  padding-left: 16px;
+  border-left: 4px solid #ff7ffe;
+}
+
 .blog-list {
   max-width: 620px;
   margin: 0 auto;
